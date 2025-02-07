@@ -1,0 +1,19 @@
+weights/*
+!weights/mamba/EE_1_layers_middle_2_pos_32_40_48_56/*
+!weights/mistral/EE_1_layers_middle_2_pos_16_20_24_28/*
+
+*.safetensors
+
+*.pyc
+
+datasets/*
+
+# *EE*
+
+.vscode*
+
+*.png
+
+try/*
+
+TEST/*

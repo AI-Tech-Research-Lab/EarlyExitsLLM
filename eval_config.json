@@ -1,0 +1,11 @@
+{
+    "model": "mistral",  
+    "task": "triviaqa",  
+    "n_shots": 0,  
+    "max_gen_tokens": 64,  
+    "temperature": 1.0,  
+    "topk": null,  
+    "recomp": false,  
+    "use_EE": true,  
+    "th_for_EE": 0.35  
+}
